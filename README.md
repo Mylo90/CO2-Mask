@@ -10,3 +10,5 @@ Temperature Sensing: Measures the temperature near the user's mouth for added in
 Bluetooth Connectivity: Wirelessly transmits data to a paired device for easy monitoring.
 User Target: Designed for athletes and everyday exercisers looking to enhance their breathing performance and track CO2 output during workouts.
 This project helps users optimize their workouts by providing a better understanding of their respiratory system and its efficiency under physical exertion.
+
+![Mask Design](IMG_8281.jpeg)
