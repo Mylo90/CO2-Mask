@@ -15,5 +15,4 @@ This project helps users optimize their workouts by providing a better understan
 ![Mask Design](IMG_8279.jpeg)
 ![Mask Design](IMG_8280.jpeg)
 ![Mask Design](IMG_8281.jpeg)
-![Mask Design](IMG_8282.jpeg)
 ![Mask Design](IMG_8283.jpeg)
