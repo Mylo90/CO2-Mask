@@ -5,6 +5,7 @@ This project aims to develop a smart mask that measures CO2 concentration and te
 The mask is particularly useful for monitoring breathing efficiency, CO2 combustion, and overall respiratory performance during exercise. By connecting the device to a Bluetooth-enabled phone or tablet, users can view real-time data on their CO2 levels and temperature via a dedicated app.
 
 Key Features:
+
 CO2 Monitoring: Tracks exhaled CO2 concentration in real-time.
 Temperature Sensing: Measures the temperature near the user's mouth for added insights.
 Bluetooth Connectivity: Wirelessly transmits data to a paired device for easy monitoring.
