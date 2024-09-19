@@ -11,4 +11,8 @@ Bluetooth Connectivity: Wirelessly transmits data to a paired device for easy mo
 User Target: Designed for athletes and everyday exercisers looking to enhance their breathing performance and track CO2 output during workouts.
 This project helps users optimize their workouts by providing a better understanding of their respiratory system and its efficiency under physical exertion.
 
-![Mask Design](IMG_8283.jpg)
+![Mask Design](IMG_8279.jpeg)
+![Mask Design](IMG_8280.jpeg)
+![Mask Design](IMG_8281.jpeg)
+![Mask Design](IMG_8282.jpeg)
+![Mask Design](IMG_8283.jpeg)
