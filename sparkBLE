@@ -1,0 +1,86 @@
+#include <Wire.h>
+#include <ArduinoBLE.h>  // Includes the BLE library for handling Bluetooth Low Energy on Nano 33 BLE
+#include "SparkFun_STC3x_Arduino_Library.h"  // Includes the library for using the STC3x CO2 sensor
+
+STC3x mySensor;  // Creates an object for the CO2 sensor
+
+// Define BLE service and characteristics for CO2 and temperature
+BLEService sensorService("180C");  // Defines a custom BLE service with a specific UUID (180C in hex)
+BLECharacteristic co2Characteristic("2A6E", BLERead | BLENotify, 20);  // Defines a characteristic for CO2 levels (read and notify) as a string (20 bytes max)
+BLECharacteristic tempCharacteristic("2A6F", BLERead | BLENotify, 20); // Defines a characteristic for temperature (read and notify) as a string (20 bytes max)
+
+void setup() {
+  Serial.begin(115200);  // Initializes serial communication with a baud rate of 115200
+  while (!Serial); // Waits until the serial port is ready
+  
+  // Initialize the CO2 sensor
+  Wire.begin();  // Starts I2C communication
+  if (mySensor.begin() == false) {  // Checks if the sensor is connected properly
+    Serial.println(F("Sensor not detected. Please check wiring. Freezing..."));  // If not, print error message and halt the program
+    while (1);
+  }
+
+  // Set the sensor's binary gas (CO2 in air, 25% range)
+  if (mySensor.setBinaryGas(STC3X_BINARY_GAS_CO2_AIR_25) == false) {  // Configures the sensor to measure CO2
+    Serial.println(F("Could not set the binary gas! Freezing..."));  // If it fails, print error message and halt the program
+    while (1);
+  }
+
+  // Initialize BLE
+  if (!BLE.begin()) {  // Checks if the BLE module starts correctly
+    Serial.println("* Starting Bluetooth® Low Energy module failed!");  // If not, print error message and halt the program
+    while (1);
+  }
+
+  // Set BLE name and advertising
+  BLE.setLocalName("Nano33BLE_CO2");  // Sets the name of the BLE device shown in the BLE terminal
+  BLE.setAdvertisedService(sensorService);  // Associates the defined service with advertising
+
+  // Add CO2 and temperature characteristics to the service
+  sensorService.addCharacteristic(co2Characteristic);  // Adds the CO2 characteristic to the service
+  sensorService.addCharacteristic(tempCharacteristic); // Adds the temperature characteristic to the service
+  BLE.addService(sensorService);  // Adds the service to BLE
+
+  // Start advertising
+  BLE.advertise();  // Starts advertising so devices can find this unit via BLE
+  Serial.println("BLE is now advertising...");  // Prints a message indicating that BLE advertising is active
+}
+
+void loop() {
+  // Wait for a connection from a central device (e.g., BLE terminal)
+  BLEDevice central = BLE.central();  // Waits for a central device to connect
+
+  if (central) {  // When a device connects
+    Serial.print("Connected to central: ");
+    Serial.println(central.address());  // Prints the address of the connected device
+
+    // Measure and send sensor data while the device is connected
+    while (central.connected()) {  // As long as the central device is connected
+      if (mySensor.measureGasConcentration()) {  // Measures CO2 concentration
+        float co2 = mySensor.getCO2();  // Retrieves the CO2 level
+        float temp = mySensor.getTemperature();  // Retrieves the temperature
+
+        // Print data to the Serial Monitor
+        Serial.print(F("CO2(%): "));
+        Serial.print(co2, 2);  // Prints the CO2 level with two decimal places
+        Serial.print(F("\tTemperature(C): "));
+        Serial.println(temp, 2);  // Prints the temperature with two decimal places
+
+        // Create a buffer for the formatted strings
+        char co2Str[20];  // Buffer for CO2 string
+        char tempStr[20]; // Buffer for temperature string
+
+        // Format the CO2 and temperature as ASCII strings
+        snprintf(co2Str, sizeof(co2Str), "CO2: %.2f%%", co2);  // Format CO2 as a string
+        snprintf(tempStr, sizeof(tempStr), "Temp: %.2fC", temp); // Format temperature as a string
+
+        // Send data via BLE characteristics as ASCII strings
+        co2Characteristic.writeValue(co2Str);  // Sends the CO2 value as a string via BLE
+        tempCharacteristic.writeValue(tempStr);  // Sends the temperature value as a string via BLE
+      }
+      delay(1000);  // Waits one second before the next measurement
+    }
+
+    Serial.println("Disconnected from central.");  // Prints a message when the central device disconnects
+  }
+}
