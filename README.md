@@ -7,9 +7,9 @@ The mask is particularly useful for monitoring breathing efficiency, CO2 combust
 Key Features:
 
 CO2 Monitoring: Tracks exhaled CO2 concentration in real-time. <br />
-Temperature Sensing: Measures the temperature near the user's mouth for added insights.
-Bluetooth Connectivity: Wirelessly transmits data to a paired device for easy monitoring.
-User Target: Designed for athletes and everyday exercisers looking to enhance their breathing performance and track CO2 output during workouts.
+Temperature Sensing: Measures the temperature near the user's mouth for added insights. <br />
+Bluetooth Connectivity: Wirelessly transmits data to a paired device for easy monitoring. <br />
+User Target: Designed for athletes and everyday exercisers looking to enhance their breathing performance and track CO2 output during workouts. <br />
 This project helps users optimize their workouts by providing a better understanding of their respiratory system and its efficiency under physical exertion.
 
 ![Mask Design](IMG_8279.jpeg)
