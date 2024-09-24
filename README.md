@@ -6,7 +6,7 @@ The mask is particularly useful for monitoring breathing efficiency, CO2 combust
 
 Key Features:
 
-CO2 Monitoring: Tracks exhaled CO2 concentration in real-time.
+CO2 Monitoring: Tracks exhaled CO2 concentration in real-time. br /
 Temperature Sensing: Measures the temperature near the user's mouth for added insights.
 Bluetooth Connectivity: Wirelessly transmits data to a paired device for easy monitoring.
 User Target: Designed for athletes and everyday exercisers looking to enhance their breathing performance and track CO2 output during workouts.
