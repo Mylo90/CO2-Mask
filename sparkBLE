@@ -10,8 +10,10 @@ BLECharacteristic co2Characteristic("2A6E", BLERead | BLENotify, 20);  // Define
 BLECharacteristic tempCharacteristic("2A6F", BLERead | BLENotify, 20); // Defines a characteristic for temperature (read and notify) as a string (20 bytes max)
 
 void setup() {
-  Serial.begin(115200);  // Initializes serial communication with a baud rate of 115200
-  while (!Serial); // Waits until the serial port is ready
+  Serial.begin(115200);  
+  if (Serial) {
+  while (!Serial);  
+}
   
   // Initialize the CO2 sensor
   Wire.begin();  // Starts I2C communication
