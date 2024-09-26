@@ -1,12 +1,12 @@
 CO2 and Temperature Sensing Mask for Athletes.
 
-Links to project components: 
+Links to project components: <br />
 Arduino: <br />
-https://store.arduino.cc/en-se/products/nano-33-ble-rev2
+https://store.arduino.cc/en-se/products/nano-33-ble-rev2 <br />
 Co2 Click sensor: <br /> 
-https://www.mikroe.com/co2-click
+https://www.mikroe.com/co2-click <br />
 Gas mask: <br />
-https://www.tradeinn.com/waveinn/en/3m-series-6000-mask/138958956/p?utm_source=google_products&utm_medium=merchant&id_producte=16274255&country=se
+https://www.tradeinn.com/waveinn/en/3m-series-6000-mask/138958956/p?utm_source=google_products&utm_medium=merchant&id_producte=16274255&country=se <br />
 
 
 
