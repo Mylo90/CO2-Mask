@@ -24,7 +24,5 @@ https://www.tradeinn.com/waveinn/en/3m-series-6000-mask/138958956/p?utm_source=g
 
 **Instructions:** <br />
 
-![IMG_8281](https://github.com/user-attachments/assets/d542be10-5583-4e8e-8998-11c034e524f2)
-![IMG_8280](https://github.com/user-attachments/assets/47cce3a3-a228-4d1d-888f-05ed66d3e98a)
 ![IMG_8854](https://github.com/user-attachments/assets/018e19a2-566c-45b7-bed4-3dd9d968c381)
 
