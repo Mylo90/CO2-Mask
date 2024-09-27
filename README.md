@@ -26,7 +26,7 @@ PCB card <br />
 **Other components:** <br />
 9V battery <br />
 3D printed 3M mask component <br /> 
-Länk till 3D- print <br /> 
+https://www.thingiverse.com/thing:4492721 <br /> 
 
 **Instructions:** <br />
 
