@@ -21,6 +21,8 @@ Co2 Click sensor: <br />
 https://www.mikroe.com/co2-click <br />
 Gas mask: <br />
 https://www.tradeinn.com/waveinn/en/3m-series-6000-mask/138958956/p?utm_source=google_products&utm_medium=merchant&id_producte=16274255&country=se <br />
+3D-printable attachment: <br />
+https://www.thingiverse.com/thing:4492721 <br />
 PCB card <br />
 
 **Other components:** <br />
