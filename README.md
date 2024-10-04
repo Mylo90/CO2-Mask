@@ -10,7 +10,7 @@ The mask is particularly useful for monitoring breathing efficiency, CO2 combust
 ### CO2 Monitoring  <br />
 Tracks exhaled CO2 concentration in real-time. <br />
 ### Temperature Sensing <br />
-Measures the temperature near the user's mouth for added insights. <br />
+Measures the temperature within a breath, capturing real-time variations as air passes over it. Used for added insights. <br />
 ### Bluetooth Connectivity <br />
 Wirelessly transmits data to a paired device for easy monitoring. <br />
 ### User Target <br />
