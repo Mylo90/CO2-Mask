@@ -14,9 +14,7 @@ Measures the temperature within a breath, capturing real-time variations as air 
 ### Bluetooth Connectivity <br />
 Wirelessly transmits data to a paired device for easy monitoring. <br />
 ### User Target <br />
-Designed for athletes and everyday exercisers looking to enhance their breathing performance and track CO2 output during workouts. <br />
-
-This project helps users optimize their workouts by providing a better understanding of their respiratory system and its efficiency under physical exertion.
+This project is designed for athletes and everyday fitness enthusiasts seeking to improve their breathing performance and monitor CO2 output during exercise. It enables users to optimize their workouts by offering valuable insights to respiratory function and efficiency under physical exertion.
 
 ## Links to project components <br />
 [Arduino Nano 33 BLE](https://store.arduino.cc/en-se/products/nano-33-ble-rev2)   cost: €29,00  <br />
