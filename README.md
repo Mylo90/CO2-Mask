@@ -19,12 +19,15 @@ Designed for athletes and everyday exercisers looking to enhance their breathing
 This project helps users optimize their workouts by providing a better understanding of their respiratory system and its efficiency under physical exertion.
 
 ## Links to project components <br />
-Arduino Nano 33 BLE <br />
 [Arduino Nano 33 BLE](https://store.arduino.cc/en-se/products/nano-33-ble-rev2) <br />
 cost: €29,00  <br />
-CO2 Click sensor  <br />
+ <br />
 [CO2 Click sensor](https://www.mikroe.com/co2-click) <br /> 
+cost: $125.00
+ <br />
 [Gas mask](https://www.tradeinn.com/waveinn/en/3m-series-6000-mask/138958956/p?utm_source=google_products&utm_medium=merchant&id_producte=16274255&country=se) <br />
+cost: 
+ <br />
 PCB card <br />
 [3D printed 3M mask component](https://www.thingiverse.com/thing:4492721) <br /> 
 9V battery <br />
