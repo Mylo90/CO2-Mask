@@ -38,7 +38,7 @@ The `src` folder contains the source code for the project. It includes the firmw
 
 ### Software
 - Install [Arduino IDE](https://www.arduino.cc/en/software) on your development environment.
-- Install "LightBlue" to your moble device. [Android](https://play.google.com/store/apps/details?id=com.punchthrough.lightblueexplorer&hl=en_US&pli=1) [iOS]()
+- Install "LightBlue" to your moble device. Available for [Android](https://play.google.com/store/apps/details?id=com.punchthrough.lightblueexplorer&hl=en_US&pli=1) and [iOS](https://apps.apple.com/se/app/lightblue/id557428110)
 
 ## Setup <br />
 1. **Prerequisites**: Ensure you have the correct [hardware](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#hardware) and [software](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#software) installed. 
