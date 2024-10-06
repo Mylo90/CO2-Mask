@@ -4,14 +4,14 @@ This project aims to develop a smart mask for athletes to monitor CO2 levels and
 
 The mask is particularly useful for monitoring breathing efficiency, CO2 combustion, and overall respiratory performance during exercise. By connecting the device to a Bluetooth-enabled phone or tablet, users can view real-time data on their CO2 levels and temperature via a dedicated app.
 
-## Key Features:
-- **Continuous CO2 and Temperature Monitoring**: Tracks both exhaled carbon dioxide (CO2) concentration and breath temperature in real-time, providing comprehensive insights into respiratory efficiency and variations in breathing patterns under physical exertion.
+## Key Features
+- **Continuous CO2 and Temperature Monitoring**: Tracks exhaled CO2 concentration and breath temperature in real time for a comprehensive view of respiratory function.
+- **Bluetooth Connectivity**: Seamlessly transmits real-time data to paired devices, allowing live monitoring via a smartphone or fitness tracker.
+- **Compact and Lightweight Design**: Easily integrates into sportswear or fitness gear, ensuring comfort during any activity.
 
-- **Bluetooth Connectivity**: Wirelessly transmits real-time data to paired devices, allowing users to monitor their breathing metrics live on their smartphone or fitness tracker for immediate feedback and progress tracking.
-
-- **Compact, Lightweight Design**: Designed for athletes and active individuals, the device is small, lightweight, and easily integrated into sportswear or fitness equipment, ensuring comfort and convenience during workouts.
-
-**Target Audience**: Athletes and fitness enthusiasts who is seeking to improve their breathing performance and monitor CO2 output during exercise. Our product enables users to optimize their workouts by offering valuable insights to respiratory function and efficiency under physical exertion.
+## Target Audience
+- **Athletes** aiming to enhance respiratory efficiency and optimize breathing during physical exertion.
+- **Fitness Enthusiasts** looking to improve their workout performance by monitoring and adjusting breathing techniques.
 
 ## Prerequisites
 
@@ -24,13 +24,15 @@ The mask is particularly useful for monitoring breathing efficiency, CO2 combust
 - 9V battery <br />
 - Breadboard, wires
 
-### Software
-- Arduino IDE for programming the microcontroller
-- Required Python Libraries:
-  ```bash
-  pip install adafruit-circuitpython-CO2 pyserial bluetooth
+#### Software
+- Install [Arduino IDE](https://www.arduino.cc/en/software) on your development environment.
 
-## Instructions <br />
+## Installation <br />
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Mylo90/CO2-Mask.git
+   cd CO2-Mask
+
 
 ## Early prototype
 ![Earlyprototype](https://github.com/user-attachments/assets/018e19a2-566c-45b7-bed4-3dd9d968c381)
