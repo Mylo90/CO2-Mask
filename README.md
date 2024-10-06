@@ -4,6 +4,12 @@ This project aims to develop a smart mask for athletes to monitor CO2 levels and
 
 The mask is particularly useful for monitoring breathing efficiency, CO2 combustion, and overall respiratory performance during exercise. By connecting the device to a Bluetooth-enabled phone or tablet, users can view real-time data on their CO2 levels and temperature via a dedicated app.
 
+## Table of contents 
+- [Table of Contents](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#Table-of-contents)
+- [Key Features](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#key-features)
+- [Prerequisites](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#prerequisites)
+- [Setup](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#setup)
+
 ## Key Features
 - **Continuous CO2 and Temperature Monitoring**: Tracks exhaled CO2 concentration and breath temperature in real time for a comprehensive view of respiratory function.
 - **Bluetooth Connectivity**: Seamlessly transmits real-time data to paired devices, allowing live monitoring via a smartphone or fitness tracker.
