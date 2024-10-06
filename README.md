@@ -27,7 +27,7 @@ The mask is particularly useful for monitoring breathing efficiency, CO2 combust
 - Install [Arduino IDE](https://www.arduino.cc/en/software) on your development environment.
 
 ## Setup <br />
-1. **Prerequisites**: Ensure you have the correct [hardware]() and [software](https://github.com/Mylo90/CO2-Mask/console?tab=readme-ov-file#software) installed. 
+1. **Prerequisites**: Ensure you have the correct [hardware](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#hardware) and [software](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#software) installed. 
    
 2. **Clone the Repository**: <br />
    `git clone https://github.com/Mylo90/CO2-Mask.git`<br />
