@@ -57,3 +57,5 @@ The `src` folder contains the source code for the project. It includes the firmw
 ## Early prototype
 ![Earlyprototype](https://github.com/user-attachments/assets/018e19a2-566c-45b7-bed4-3dd9d968c381)
 
+## Future improvements
+
