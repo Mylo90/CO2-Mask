@@ -14,7 +14,6 @@ The mask is particularly useful for monitoring breathing efficiency, CO2 combust
 - **Fitness Enthusiasts** looking to improve their workout performance by monitoring and adjusting breathing techniques.
 
 ## Prerequisites
-
 ### Hardware
 - **CO2 and temperature sensor**: [CO2 Click sensor](https://www.mikroe.com/co2-click)    cost: €137.91  <br />
 - **Microcontroller**: [Arduino Nano 33 BLE](https://store.arduino.cc/en-se/products/nano-33-ble-rev2)   cost: €29,00  <br />
@@ -24,15 +23,26 @@ The mask is particularly useful for monitoring breathing efficiency, CO2 combust
 - 9V battery <br />
 - Breadboard, wires
 
-#### Software
+### Software
 - Install [Arduino IDE](https://www.arduino.cc/en/software) on your development environment.
 
-## Installation <br />
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Mylo90/CO2-Mask.git
-   cd CO2-Mask
+## Setup <br />
+1. **Prerequisites**: Ensure you have the correct [hardware]() and [software](https://github.com/Mylo90/CO2-Mask/console?tab=readme-ov-file#software) installed. 
+   
+2. **Clone the Repository**: <br />
+   `git clone https://github.com/Mylo90/CO2-Mask.git`<br />
+   `cd CO2-Mask`
+3. **Upload Firmware to Microcontroller**: <br /> Connect the microcontroller to your computer, and upload the firmware
 
+4. **Hardware Setup**:
+Connect the STC31 CO2 sensor to the microcontroller following the wiring diagram provided in the repository.
+
+5. **Bluetooth Pairing**: 
+Enable Bluetooth on your mobile device and pair your device to the Arduino using the phone applicaiton "LightBlue".
+
+6. **Start Monitoring**: <br />
+Once paired, you can start your workout, and the CO2-Mask will monitor and transmit data such as CO2 concentration and temperature in real time to your mobile device.
+   
 
 ## Early prototype
 ![Earlyprototype](https://github.com/user-attachments/assets/018e19a2-566c-45b7-bed4-3dd9d968c381)
