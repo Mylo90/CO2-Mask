@@ -34,15 +34,11 @@ The mask is particularly useful for monitoring breathing efficiency, CO2 combust
    `cd CO2-Mask`
 3. **Upload Firmware to Microcontroller**: <br /> Connect the microcontroller to your computer, and upload the firmware
 
-4. **Hardware Setup**:
-Connect the STC31 CO2 sensor to the microcontroller following the wiring diagram provided in the repository.
+4. **Hardware Setup**: <br /> Connect the STC31 CO2 sensor to the microcontroller following the wiring diagram provided in the repository.
 
-5. **Bluetooth Pairing**: 
-Enable Bluetooth on your mobile device and pair your device to the Arduino using the phone applicaiton "LightBlue".
+5. **Bluetooth Pairing**: <br /> Enable Bluetooth on your mobile device and pair your device to the Arduino using the phone applicaiton "LightBlue".
 
-6. **Start Monitoring**: <br />
-Once paired, you can start your workout, and the CO2-Mask will monitor and transmit data such as CO2 concentration and temperature in real time to your mobile device.
-   
+6. **Start Monitoring**: <br /> Once paired, you can start your workout, and the CO2-Mask will monitor and transmit data such as CO2 concentration and temperature in real time to your mobile device.
 
 ## Early prototype
 ![Earlyprototype](https://github.com/user-attachments/assets/018e19a2-566c-45b7-bed4-3dd9d968c381)
