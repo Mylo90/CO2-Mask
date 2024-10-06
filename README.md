@@ -60,4 +60,19 @@ The `src` folder contains the source code for the project. It includes the firmw
 ![Earlyprototype](https://github.com/user-attachments/assets/018e19a2-566c-45b7-bed4-3dd9d968c381)
 
 ## Future improvements
+1.	**Enhanced sensors**: Add more environmental sensors (humidity, oxygen levels, VOCs) for broader data analysis.
+
+2.	**Data logging**: Implement onboard data storage (SD card or cloud) to analyze long-term trends without constant Bluetooth connection.
+
+3.	**Mobile app**: Develop a dedicated mobile app for better real-time data visualization and user-friendly dashboards.
+
+4.	**Comfort enhancements**: Improve the design for comfort and usability, particularly for athletes during physical activities.
+
+5.	**Battery Optimization**: Introduce low-power modes or solar charging to extend battery life.
+
+6.	**AI Integration**: Use machine learning models to analyze respiratory patterns and predict performance metrics or potential issues.
+	
+7.	**Real-time Alerts**: Add notifications for abnormal CO2 levels or temperature spikes during exercise to prevent health risks.
+	
+8.	**Cross-Platform Syncing**: Allow synchronization with fitness apps like Apple Health or Google Fit to aggregate data with other workout metrics.
 
