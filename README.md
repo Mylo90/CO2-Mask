@@ -10,6 +10,9 @@ The mask is particularly useful for monitoring breathing efficiency, CO2 combust
 - [Prerequisites](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#prerequisites)
 - [Setup](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#setup)
 
+- **Documentation**: 
+- **Code**: 
+
 ## Key Features
 - **Continuous CO2 and Temperature Monitoring**: Tracks exhaled CO2 concentration and breath temperature in real time for a comprehensive view of respiratory function.
 - **Bluetooth Connectivity**: Seamlessly transmits real-time data to paired devices, allowing live monitoring via a smartphone or fitness tracker.
