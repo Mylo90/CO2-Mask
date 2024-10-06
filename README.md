@@ -15,7 +15,7 @@ The mask is particularly useful for monitoring breathing efficiency, CO2 combust
 This folder contains the documentation files for the project, including diagrams, setup instructions, and other resources to help users understand hardware connections and how to use the CO2 Mask system.
 
 #### `src`
-The `src` folder contains the source code for the project. It includes the firmware that runs on the microcontroller (e.g., Arduino or ESP32) to manage sensor data, perform CO2 and temperature monitoring, and handle Bluetooth communication for real-time data transmission.
+The `src` folder contains the source code for the project. It includes the firmware that runs on the microcontroller to manage sensor data, perform CO2 and temperature monitoring, and handle Bluetooth communication for real-time data transmission.
 
 ## Key Features
 - **Continuous CO2 and Temperature Monitoring**: Tracks exhaled CO2 concentration and breath temperature in real time for a comprehensive view of respiratory function.
