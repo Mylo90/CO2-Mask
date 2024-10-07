@@ -60,6 +60,7 @@ The `src` folder contains the source code for the project. It includes the firmw
 ## Early prototype
   <a href="https://github.com/Mylo90/CO2-Mask/tree/main/docs/earlyPrototype" target="_blank">
     <img src="https://github.com/Mylo90/CO2-Mask/blob/main/docs/earlyPrototype/prototype.jpg" alt="Earlyprototype" style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover; border: 2px solid white;">
+</a>
 
 ## Future improvements
 
