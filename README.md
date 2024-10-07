@@ -15,7 +15,7 @@ The mask is particularly useful for monitoring breathing efficiency, CO2 combust
 
 ### Folder Structure
 #### [`docs`](https://github.com/Mylo90/CO2-Mask/tree/main/docs)
-The `docs` contains the documentation files for the project, including [Lean Canvas](https://github.com/Mylo90/CO2-Mask/blob/main/docs/leancanvas.pdf), diagrams and other resources to help users understand hardware connections and how to use the CO2 Mask system.
+The `docs` contains the documentation files for the project ([first prototype](https://github.com/Mylo90/CO2-Mask/tree/main/docs/earlyPrototype)), including [Lean Canvas](https://github.com/Mylo90/CO2-Mask/blob/main/docs/leancanvas.pdf), diagrams and other resources to help users understand hardware connections and how to use the CO2 Mask system.
 
 #### [`src`](https://github.com/Mylo90/CO2-Mask/tree/main/src)
 The `src` folder contains the source code for the project. It includes the firmware that runs on the microcontroller to manage sensor data, perform CO2 and temperature monitoring, and handle Bluetooth communication for real-time data transmission.
