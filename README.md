@@ -41,6 +41,10 @@ The `src` folder contains the source code for the project. It includes the firmw
 
 ### Software
 - Install [Arduino IDE](https://www.arduino.cc/en/software) on your development environment.
+- Make sure to install the packages used in the codes:<br />
+	- `Wire.h` <br />
+  	- `ArduinoBLE.h` <br />
+ 	- `SparkFun_STC3x_Arduino_Library.h` <br />
 - Install "LightBlue" to your moble device. Available for [Android](https://play.google.com/store/apps/details?id=com.punchthrough.lightblueexplorer&hl=en_US&pli=1) and [iOS](https://apps.apple.com/se/app/lightblue/id557428110)
 
 ## Setup <br />
