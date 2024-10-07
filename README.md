@@ -11,6 +11,7 @@ The mask is particularly useful for monitoring breathing efficiency, CO2 combust
 - [Setup](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#setup)
 - [Early Prototype](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#early-prototype)
 - [Future Improvements](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#future-improvements)
+- [Contributors](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#contributors)
 
 ### Folder Structure
 #### [`docs`](https://github.com/Mylo90/CO2-Mask/tree/main/docs)
@@ -78,7 +79,6 @@ The `src` folder contains the source code for the project. It includes the firmw
 
 
 ## Contributors
-
 <p align="left">
   <a href="https://github.com/RasmusHR" target="_blank">
     <img src="https://github.com/RasmusHR.png" alt="RasmusHR" style="border-radius: 50%; width: 40px; height: 40px; object-fit: cover; border: 2px solid white;">
