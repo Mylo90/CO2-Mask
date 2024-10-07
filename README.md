@@ -80,10 +80,18 @@ The `src` folder contains the source code for the project. It includes the firmw
 ## Contributors
 
 <p align="left">
-  <img src="https://github.com/RasmusHR.png" alt="RasmusHR" style="border-radius: 50%; width: 40px; height: 40px; object-fit: cover; display: inline-block;">
-  <img src="https://github.com/Mylo90.png" alt="Mylo90" style="border-radius: 50%; width: 40px; height: 40px; object-fit: cover; display: inline-block;">
-  <img src="https://github.com/EmmaJson.png" alt="EmmaJson" style="border-radius: 50%; width: 40px; height: 40px; object-fit: cover; display: inline-block;">
-  <img src="https://github.com/Lovathoren.png" alt="Lovathoren" style="border-radius: 50%; width: 40px; height: 40px; object-fit: cover; display: inline-block;">
+  <a href="https://github.com/RasmusHR" target="_blank">
+    <img src="https://github.com/RasmusHR.png" alt="RasmusHR" style="border-radius: 50%; width: 40px; height: 40px; object-fit: cover; border: 2px solid white;">
+  </a>
+  <a href="https://github.com/Mylo90" target="_blank">
+    <img src="https://github.com/Mylo90.png" alt="Mylo90" style="border-radius: 50%; width: 40px; height: 40px; object-fit: cover; border: 2px solid white;">
+  </a>
+  <a href="https://github.com/EmmaJson" target="_blank">
+    <img src="https://github.com/EmmaJson.png" alt="EmmaJson" style="border-radius: 50%; width: 40px; height: 40px; object-fit: cover; border: 2px solid white;">
+  </a>
+  <a href="https://github.com/Lovathoren" target="_blank">
+    <img src="https://github.com/Lovathoren.png" alt="Lovathoren" style="border-radius: 50%; width: 40px; height: 40px; object-fit: cover; border: 2px solid white;">
+  </a>
 </p>
 
 
