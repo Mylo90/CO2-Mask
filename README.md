@@ -58,7 +58,7 @@ The `src` folder contains the source code for the project. It includes the firmw
 6. **Start Monitoring**: <br /> Once paired, you can start your workout, and the CO2-Mask will monitor and transmit data such as CO2 concentration and temperature in real time to your mobile device.
 
 ## Early prototype
-  <a href="https://github.com/Mylo90/CO2-Mask/tree/main/docs/earlyPrototype)" target="_blank">
+  <a href="https://github.com/Mylo90/CO2-Mask/tree/main/docs/earlyPrototype" target="_blank">
     <img src="https://github.com/Mylo90/CO2-Mask/blob/main/docs/earlyPrototype/prototype.jpg" alt="Earlyprototype" style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover; border: 2px solid white;">
 
 ## Future improvements
