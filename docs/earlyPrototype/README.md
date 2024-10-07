@@ -1,10 +1,15 @@
 # Early Prototype
 
-This folder contains resources related to the early prototypes of the CO2 Mask project.
+This folder contains resources and documentation related to the early prototype development of the CO2 Mask project.
 
 ## Contents
+- `3M-6000M-Mask.jpg`: Image of the 3M 6000 series mask used in early designs.
+- `breadboardCircuit.jpg`: Picture of the breadboard circuit setup used in prototyping.
+- `connectBLEvideo.mov`: Video demonstrating the connection to Bluetooth Low Energy (BLE).
+- `prototype.jpg`: Image of the early prototype of the CO2 Mask.
+- `unattachedComponents.jpg`: Photo of components that were unattached during prototyping.
 
-- **prototype.jpg**: An image of the early gas mask prototype developed during the project.
+This folder helps document the progression and iteration of the mask design.
 
 ## Overview
 
