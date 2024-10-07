@@ -4,7 +4,7 @@ This folder contains resources related to the early prototypes of the CO2 Mask p
 
 ## Contents
 
-- **gasmask.jpg**: An image of the early gas mask prototype developed during the project.
+- **prototype.jpg**: An image of the early gas mask prototype developed during the project.
 
 ## Overview
 
