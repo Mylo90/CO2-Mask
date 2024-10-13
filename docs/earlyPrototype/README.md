@@ -3,6 +3,8 @@
 This folder contains resources and documentation related to the early prototype development of the CO2 Mask project.
 
 ## Contents
+- `measurements`: Measurements during testing of our prototype.
+- `pcb`: Files to recreate the PCB.
 - `3M-6000M-Mask.jpg`: Image of the 3M 6000 series mask used in early designs.
 - `breadboardCircuit.jpg`: Picture of the breadboard circuit setup used in prototyping.
 - `connectBLEvideo.mov`: Video demonstrating the connection to Bluetooth Low Energy (BLE).
