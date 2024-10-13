@@ -15,4 +15,4 @@ This folder helps document the progression and iteration of the mask design.
 
 ## Overview
 
-The early prototypes in this folder serve as the foundation for the initial design and concept of the CO2 Mask. These early versions helps to shape the final model by providing key insights into the mask's design, functionality, and potential improvements.
+The early prototype in this folder serve as the foundation for the initial design and concept of the CO2 Mask. This early version helps to shape the final model by providing key insights into the mask's design, functionality, and potential improvements.
