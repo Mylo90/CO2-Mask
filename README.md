@@ -35,7 +35,7 @@ The `src` folder contains the source code for the project. It includes the firmw
 - **Microcontroller**: [Arduino Nano 33 BLE](https://store.arduino.cc/en-se/products/nano-33-ble-rev2)   cost: €29,00  <br />
 - **Gas mask**: [3M Series 6000 Mask](https://www.tradeinn.com/waveinn/en/3m-series-6000-mask/138958956/p?utm_source=google_products&utm_medium=merchant&id_producte=16274255&country=se)   cost: €30.51 <br />
 - **Mask front attachment**: [3D printed 3M mask component](https://www.thingiverse.com/thing:4492721) <br />
-- **PCB card** <br />
+- **PCB card** [Airsense PCB](https://github.com/Mylo90/CO2-Mask/blob/main/docs/earlyPrototype/pcb)   <br />
 - **9V battery** <br />
 - **Breadboard, wires**
 
