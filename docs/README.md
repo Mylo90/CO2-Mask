@@ -4,10 +4,10 @@ This folder contains important documents and resources related to the CO2 Mask p
 
 ## Contents
 
-- **earlyPrototype/**: Contains images and files related to the early prototypes of the CO2 mask.
+- **`earlyPrototype`**: Contains images and files related to the early prototypes of the CO2 mask.
   - `prototype.jpg`: Image of the gas mask prototype.
 
-- **leancanvas.pdf**: The Lean Canvas document outlining the project strategy, including problem statements, solutions, key metrics, and more.
+- **`leancanvas.pdf`**: The Lean Canvas document outlining the project strategy, including problem statements, solutions, key metrics, and more.
 
 ## Updates
 - Files and folders will be regularly updated with additional resources and documentation.
