@@ -57,7 +57,7 @@ The `src` folder contains the source code for the project. It includes the firmw
 
 4. **Hardware Setup**: <br /> Connect the STC31 CO2 sensor to the microcontroller following the wiring diagram provided in the repository.
 
-5. **Bluetooth Pairing**: <br /> Enable Bluetooth on your mobile device and pair your device to the Arduino using the phone applicaiton "LightBlue".
+5. **Bluetooth Pairing**: <br /> Enable Bluetooth on your mobile device and pair your device to the Arduino using the phone applicaiton "LightBlue" (Available at [Android](https://play.google.com/store/apps/details?id=com.punchthrough.lightblueexplorer&hl=en_US&pli=1) and [iOS](https://apps.apple.com/se/app/lightblue/id557428110)).
 
 6. **Start Monitoring**: <br /> Once paired, you can start your workout, and the CO2-Mask will monitor and transmit data such as CO2 concentration and temperature in real time to your mobile device.
 
