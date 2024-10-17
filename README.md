@@ -4,12 +4,18 @@ This project aims to develop a smart mask for athletes to monitor CO2 levels and
 
 The mask is particularly useful for monitoring breathing efficiency, CO2 combustion, and overall respiratory performance during exercise. By connecting the device to a Bluetooth-enabled phone or tablet, users can view real-time data on their CO2 levels and temperature via a dedicated app.
 
+## Early prototype
+  <a href="https://github.com/Mylo90/CO2-Mask/tree/main/docs/earlyPrototype" target="_blank">
+    <img src="https://github.com/Mylo90/CO2-Mask/blob/main/docs/earlyPrototype/prototype.jpg" alt="Earlyprototype" style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover; border: 2px solid white;">
+</a>
+
+
 ## Table of contents 
+- [Early Prototype](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#early-prototype)
 - [Table of Contents](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#Table-of-contents)
 - [Key Features](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#key-features)
 - [Prerequisites](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#prerequisites)
 - [Setup](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#setup)
-- [Early Prototype](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#early-prototype)
 - [Future Improvements](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#future-improvements)
 - [Contributors](https://github.com/Mylo90/CO2-Mask/tree/main?tab=readme-ov-file#contributors)
 
@@ -60,11 +66,6 @@ The `src` folder contains the source code for the project. It includes the firmw
 5. **Bluetooth Pairing**: <br /> Enable Bluetooth on your mobile device and pair your device to the Arduino using the phone applicaiton "LightBlue" (Available at [Android](https://play.google.com/store/apps/details?id=com.punchthrough.lightblueexplorer&hl=en_US&pli=1) and [iOS](https://apps.apple.com/se/app/lightblue/id557428110)).
 
 6. **Start Monitoring**: <br /> Once paired, you can start your workout, and the CO2-Mask will monitor and transmit data such as CO2 concentration and temperature in real time to your mobile device.
-
-## Early prototype
-  <a href="https://github.com/Mylo90/CO2-Mask/tree/main/docs/earlyPrototype" target="_blank">
-    <img src="https://github.com/Mylo90/CO2-Mask/blob/main/docs/earlyPrototype/prototype.jpg" alt="Earlyprototype" style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover; border: 2px solid white;">
-</a>
 
 ## Future Improvements
 
