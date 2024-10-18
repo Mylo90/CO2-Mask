@@ -1,6 +1,6 @@
 # AirsenseCO2: a CO2 and Temperature Sensing Mask for Athletes
 
-This project aims to develop a smart mask for athletes to monitor CO2 levels and temperature in real-time, helping to track respiratory performance during physical activities. The sensor, based on the STC31 CO2 sensor, is embedded in a gas mask-like design and captures real-time data, providing athletes and fitness enthusiasts with insights into their CO2 exhalation and respiratory patterns.
+This project aims to develop a smart mask for athletes to monitor CO2 levels and temperature in real-time, helping to track respiratory performance during physical activities. The sensor is embedded in a gas mask-like design and captures real-time data, providing athletes and fitness enthusiasts with insights into their CO2 exhalation and respiratory patterns.
 
 The mask is particularly useful for monitoring breathing efficiency, CO2 combustion, and overall respiratory performance during exercise. By connecting the device to a Bluetooth-enabled phone or tablet, users can view real-time data on their CO2 levels and temperature via a dedicated app.
 
